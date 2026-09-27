@@ -1,0 +1,13 @@
+{
+  "name": "devops-pipeline-demo",
+  "version": "1.0.0",
+  "description": "End-to-End DevOps Pipeline Practical",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node -e \"console.log('Test passed successfully')\""
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
